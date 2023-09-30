@@ -28,6 +28,10 @@
     flex-flow: column nowrap;
     justify-content: center;
     background-color: black;
+    color: white;
 }
 
+.izq {
+    padding-left: 3vw;
+}
 
