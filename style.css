@@ -1,0 +1,33 @@
+* {
+    margin:0px; 
+    padding: 0px;
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+}
+
+.container, .logo {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
+.img {
+    width: 40vw;
+    background-image: url(back.jpg);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.right {
+    width: 60vw;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    background-color: black;
+}
+
+
