@@ -28,10 +28,8 @@
     flex-flow: column nowrap;
     justify-content: space-evenly;
     background-color: black;
-    color: white;
-    box-shadow: -12px -1px 29px -5px rgba(48,2,110,1);
-    -webkit-box-shadow: -12px -1px 29px -5px rgba(48,2,110,1);
-    -moz-box-shadow: -12px -1px 29px -5px rgba(48,2,110,1);}
+    color: whitesmoke;
+}
 
 .izq {
     padding-left: 3vw;
