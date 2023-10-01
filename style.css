@@ -63,6 +63,11 @@
     src: url(font/vc.ttf);
 }
 
+@font-face {
+    font-family: lobstesr;
+    src: url(http://fonts.googleapis.com/css?family=Lobster);
+}
+
 .logo {
     top: 20vh;
     height: auto;
