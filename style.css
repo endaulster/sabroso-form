@@ -121,11 +121,13 @@
     background-color: #F2668B;
     border-radius: 7px;
     opacity: 80%;
+    border-color: wheat;
+    color: white;
 }
 
 .button:hover {
     opacity: 100%;
-    color: white;
+    color: whitesmoke;
     transition: 0.25s;
     cursor: pointer;
 }
