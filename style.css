@@ -63,10 +63,9 @@
     src: url(font/vc.ttf);
 }
 
-@font-face {
-    font-family: lobster;
-    src: url("http://fonts.googleapis.com/css?family=Lobster");
-}
+
+@import url('http://fonts.googleapis.com/css?family=Lobster');
+
 
 .logo {
     top: 20vh;
@@ -90,7 +89,7 @@
 }
 
 .sabrosura {
-    font-family: lobster;
+    font-family: Lobster;
     font-size: 2em;
     padding-top: 2em;
     padding-bottom: 2em;
